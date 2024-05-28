@@ -1,4 +1,4 @@
-# Typewriter Extension App  
+# NextJs Blogs 
 
 ## Overview
 This project is a blog site built with Next.js that leverages getStaticProps for static generation and Markdown files for content management. The site includes a homepage displaying a list of blog posts and individual pages for each blog post.
